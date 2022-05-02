@@ -1,3 +1,13 @@
-.wow {
-  width: 100px;
+.winner {
+  font-size: larger;
+  text-align: center;
+  padding: 20%;
+  width: 60%;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
 }
